@@ -1,0 +1,6 @@
+{
+  "name": "SAP S/4HANA Pilot Lead Checklist & Copilot",
+  "description": "Checklist técnico, operacional e com Inteligência Artificial para Líderes de Projeto Piloto (Rollout Zero) de migração SAP ECC para SAP S/4HANA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
